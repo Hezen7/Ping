@@ -17,3 +17,9 @@ Create a window, go to settings, name it "Ping" or anything else, check the Ping
 <div>
   <img src="https://media.discordapp.net/attachments/611914511531769859/1275864610523713546/Capture_decran_2024-08-21_190920.png?ex=66c77103&is=66c61f83&hm=bd6638d8ac243a6a8005262eb6f0754e538cb9c5aa77e51f8694be5c780a5ef2&=&format=webp&quality=lossless" alt="PingImage" />
 </div>
+
+<h3 id="noteSubTitle">Important Notes</h3>
+
+<p id="notes">
+After watching this <a href="https://www.twitch.tv/videos/2030551054?filter=all&sort=time" target="_blank">Twitch replay</a>.<br><br> and unsuccessfully searching for the module the streamer was using, I decided to recreate it myself. This module is now available for others to use as well.
+</p>
