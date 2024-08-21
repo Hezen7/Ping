@@ -1,0 +1,11 @@
+{
+    "name": "Ping",
+    "author": "Hezen",
+    "description": "A simple Tera-proxy module that shows your real-time ping in the chat.",
+    "version": "1.0",
+    "servers": ["https://raw.githubusercontent.com/Hezen7/Ping/master/"],
+    "options": {
+        "cliName": "Ping",
+        "guiName": "Ping"
+    }
+}
