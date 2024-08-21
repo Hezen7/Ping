@@ -21,5 +21,5 @@ Create a window, go to settings, name it "Ping" or anything else, check the Ping
 <h3 id="noteSubTitle">Important Notes</h3>
 
 <p id="notes">
-After watching this <a href="https://www.twitch.tv/videos/2030551054?filter=all&sort=time" target="_blank">Twitch replay</a>.<br><br> and unsuccessfully searching for the module the streamer was using, I decided to recreate it myself. This module is now available for others to use as well.
+After watching this <a href="https://www.twitch.tv/videos/2030551054?filter=all&sort=time" target="_blank">Twitch replay</a> and unsuccessfully searching for the module the streamer was using, I decided to recreate it myself. This module is now available for others to use as well.
 </p>
